@@ -1,0 +1,31 @@
+#header {
+    background: orange;
+    height: 30rem;
+    position: relative;
+    background-image: url("./assets/me.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+h1 {
+    line-height: 2.5rem;
+    font-size: 2rem;
+    margin: 0;
+    /* padding: 0; */
+}
+
+#introduction {
+    padding-top: 7rem;
+    padding-left: 13%;
+}
+
+#introduction h1 {
+    color: white;
+    font-weight: lighter;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
