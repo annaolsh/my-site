@@ -33,3 +33,7 @@ h1 {
 ul {
     list-style: none;
 }
+
+.star, .skill-name {
+    display: inline;
+}
