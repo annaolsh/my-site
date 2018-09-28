@@ -2,7 +2,7 @@
     background: orange;
     height: 30rem;
     position: relative;
-    background-image: url("./assets/images/me.png");
+    background-image: url("./assets/me.png");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
@@ -29,6 +29,7 @@ h1 {
     width: 960px;
     margin: 0 auto;
 }
+<<<<<<< HEAD
 
 ul {
     list-style: none;
@@ -37,3 +38,5 @@ ul {
 .star, .skill-name {
     display: inline;
 }
+=======
+>>>>>>> parent of 1d26d08... Added Skills component
