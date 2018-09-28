@@ -6,7 +6,7 @@ export default class Skills extends Component {
     constructor() {
         super()
         this.state = {
-          skills: skills
+            skills: skills
         }
     }
 
