@@ -2,7 +2,7 @@
     background: orange;
     height: 30rem;
     position: relative;
-    background-image: url("./assets/me.png");
+    background-image: url("./assets/images/me.png");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
@@ -28,4 +28,8 @@ h1 {
 #wrapper {
     width: 960px;
     margin: 0 auto;
+}
+
+ul {
+    list-style: none;
 }
